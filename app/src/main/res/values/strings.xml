@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Recipe List</string>
+
+    <string name="Spag">Ingredients\n
+    1 pound ground beef\n
+    1 medium onion, chopped finely\n
+    2 garlic cloves, minced\n
+    14 ounces chicken or vegetable broth\n
+    2 cups water\n
+    6 ounces tomato paste\n
+    1 tsp oregano\n
+    1/2 tsp dried basil\n
+    1/4 tsp black pepper\n
+    12 ounces spaghetti\n
+    1/4 cup parmesan cheese\n </string>
+
+    <string name="Spag1">Instructions\n
+    1.In a large pot or skillet with tall sides, add onions, garlic, and ground beef; cook for 6-8 minutes, or until beef is cooked through; use a wooden spatula to break apart while cooking. Drain off fat.\n
+    2.Add tomato paste, broth, water, oregano, basil, black pepper; whisk well to combine ingredients; bring to a boil.\n
+    3.Add spaghetti, lightly pressing down so sauce comes over it. Lightly stir it every few seconds, so that spaghetti combines with sauce/meat. Simmer for 17-20 minutes or until spaghetti is cooked through and sauce has thickened.\n
+    4.Serve immediately topped with fresh parmesan cheese.</string>
+
+    <string name="Curry">Ingredients\n
+    3 tablespoons olive oil\n
+    1 small onion, chopped\n
+    2 cloves garlic, minced\n
+    3 tablespoons curry powder\n
+    1 teaspoon ground cinnamon\n
+    1 teaspoon paprika\n
+    1 bay leaf\n
+    1/2 teaspoon grated fresh ginger root\n</string>
+
+    <string name="Curry1">Instruction\n
+    1.Heat olive oil in a skillet over medium heat. Saute onion until lightly browned. Stir in garlic, curry powder, cinnamon, paprika, bay leaf, ginger, sugar and salt. Continue stirring for 2 minutes. Add chicken pieces, tomato paste, yogurt, and coconut milk. Bring to a boil, reduce heat, and simmer for 20 to 25 minutes.\n
+    2.Remove bay leaf, and stir in lemon juice and cayenne pepper. Simmer 5 more minutes.\n</string>
+
+    <string name="CAdobo">Ingredients\n
+        8 whole chicken legs (about 4 pounds), cut into drumstick and thigh sections\n
+        1 1/2 cups distilled white vinegar\n
+        3 garlic cloves, crushed\n
+        2 bay leaves\n
+        1/2 tablespoon whole black peppercorns, crushed lightly\n
+        3/4 cup soy sauce\n
+        3 tablespoons vegetable oil\n</string>
+
+    <string name="CAdobo1">Instruction\n
+    1.In a large kettle combine the chicken, the vinegar, the garlic, the bay leaves, the peppercorns, and 1 cup water, bring the mixture to a boil, and simmer it, covered, for 20 minutes. Add the soy sauce and simmer the mixture, covered, for 20 minutes. Transfer the chicken with tongs to a plate and boil the liquid for 10 minutes, or until it is reduced to about 1 cup. Let the sauce cool, remove the bay leaves, and skim the fat from the surface.\n
+    2.In a large skillet heat the oil over high heat until it is hot but not smoking and in it sauté the chicken, patted dry, in batches, turning it, for 5 minutes, or until it is browned well. Transfer the chicken to a rimmed platter, pour the sauce, heated, over it, and serve the chicken with the rice.\n</string>
+
+    <string name="Cake">Ingredients\n
+    3/4 cups butter or margarine, softened\n
+    3 eggs\n
+    2 cups sugar\n
+    2 cups flour\n
+    3/4 cup unsweetened cocoa powder\n
+    1 teaspoon baking soda\n
+    3/4 teaspoon baking powder\n
+    2 teaspoon vanilla\n
+    1 1/2 cup milk\n</string>
+
+    <string name="Cake2">Instruction\n
+    1.Pre-heat oven to 350 degrees.\n
+    2.Grease and flour three 6" X 1 1/2" round cake pans.\n
+    3.Mix together flour, cocoa powder, baking powder and baking soda. Set aside.\n
+    4.In a large bowl, beat butter, eggs and vanilla.\n
+    5.Gradually add sugar.\n
+    6.Beat on medium to high speed for about 3-4 minutes until well mixed.\n
+    7.Alternately combine in flour mixture and milk to batter while beating.\n
+    8.Continue to beat until batter is smooth.\n
+    9.Pour equal amounts of batter into greased and floured round cake pans.\n
+    10.Bake 30 to 35 minutes.\n
+    11.Check with a toothpick to se if it is done. Bake a few minutes more, if needed.\n
+    12.Remove from oven and allow cakes to cool in pans for a few minutes.\n
+    13.Place cakes on a wire rack, to them allow to completely cool.\n</string>
+
+    <string name="Mousse">Ingredients\n
+    2 cups chilled heavy cream\n
+    4 large egg yolks\n
+    3 tablespoons sugar\n
+    1 teaspoon vanilla\n
+    7 oz fine-quality bittersweet chocolate (not unsweetened), chopped\n</string>
+
+    <string name="Mousse2">Instructions\n
+    1.Heat 3/4 cup cream in a 1-quart heavy saucepan until hot. Whisk together yolks, sugar, and a pinch of salt in a metal bowl until combined well, then add hot cream in a slow stream, whisking until combined. Transfer mixture to saucepan and cook over moderately low heat, stirring constantly, until it registers 160°F on thermometer. Pour custard through a fine-mesh sieve into a bowl and stir in vanilla.\n
+    2.Melt chocolate in a double boiler or a metal bowl set over a pan of simmering water (or in a glass bowl in a microwave at 50 percent power 3 to 5 minutes), stirring frequently. Whisk custard into chocolate until smooth, then cool.\n
+    3.Beat remaining 1 1/4 cups cream in a bowl with an electric mixer until it just holds stiff peaks. Whisk one fourth of cream into chocolate custard to lighten, then fold in remaining cream gently but thoroughly.\n
+    4.Spoon mousse into 8 (6-ounce) stemmed glasses or ramekins and chill, covered, at least 6 hours. Let stand at room temperature about 20 minutes before serving.\n</string>
+
+    <string name="Lime">Ingredients\n
+    3 cups chopped ripe mango (about 3 mangoes)\n
+    1 cup water\n
+    Juice of 2 limes (about 1/4 cup)\n
+    2 tablespoons sugar\n</string>
+
+    <string name="Lime1">Instruction\n
+    1. Place chopped mango in the bowl of a food processor fitted with the metal blade, and process until smooth. Transfer to a medium bowl. Add the water, lime juice, and sugar, and stir to dissolve.\n
+    2. Pour mixture into a 9-by-5-inch deep-sided metal pan, and place in the freezer until nearly set, about 3 hours, whisking mixture every hour. Remove from freezer, and scrape surface with the tines of a fork until it is the texture of shaved ice. Return to freezer until ready to serve. Granita can be stored in an airtight container in the freezer up to 2 weeks.\n</string>
+
+    <string name="Rice">Ingredients\n
+    2 cups enriched white rice\n
+    4 cups water\n
+    2/3 cup chopped baby carrots\n
+    1/2 cup frozen green peas\n
+    2 tablespoons vegetable oil\n
+    2 eggs\n
+    soy sauce to taste\n
+    sesame oil, to taste (optional)\n</string>
+
+    <string name="Rice1">Instruction\n
+    1.In a saucepan, combine rice and water. Bring to a boil. Reduce heat, cover, and simmer for 20 minutes.\n
+    2.In a small saucepan, boil carrots in water about 3 to 5 minutes. Drop peas into boiling water, and drain.\n
+    3.Heat wok over high heat. Pour in oil, then stir in carrots and peas; cook about 30 seconds. Crack in eggs, stirring quickly to scramble eggs with vegetables. Stir in cooked rice. Shake in soy sauce, and toss rice to coat. Drizzle with sesame oil, and toss again.</string>
+</resources>
